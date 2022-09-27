@@ -1,0 +1,41 @@
+commit bbd10cd67b30933021576a36a2021182973047d8
+Author: Emily Millison <emillison@mines.edu>
+Date:   Tue Sep 27 13:39:47 2022 -0600
+
+    Made eyes shorter, moved mouth down, and changed mouth color to green
+
+commit e40f60452ac8193f1636bfa864fdcc70a7e4ad95
+Author: Alejandro Estrada <estradasilva@mines.edu>
+Date:   Tue Sep 27 13:37:00 2022 -0600
+
+    Made cat head gray and eyes red
+
+commit 3f1a7586dfb19cad308d616b643fff28d0660a78
+Author: Emily Millison <emillison@mines.edu>
+Date:   Tue Sep 27 13:35:22 2022 -0600
+
+    Made eyes skinnier and mouth wider
+
+commit 4f5232e06f2b4a40bf7a41caa39590da81bde277
+Author: Alejandro Estrada <estradasilva@mines.edu>
+Date:   Tue Sep 27 13:33:57 2022 -0600
+
+    Made head smaller again, made it yellow and added Moo to Moo
+
+commit 5ba120a3c8cf5940d9bb619635cff88a3bb03f6f
+Author: Emily Millison <emillison@mines.edu>
+Date:   Tue Sep 27 13:31:29 2022 -0600
+
+    Made eyes circular and made it say Moo instead
+
+commit b20bc2fd37e866fa31fe76eccb336e38586574b3
+Author: Alejandro Estrada <estradasilva@mines.edu>
+Date:   Tue Sep 27 13:26:34 2022 -0600
+
+    Made head bigger and orange, separated the eyes more.
+
+commit 07eb561fba43216303fe35f4d835e07f23d34394
+Author: Emily Millison <emillison@mines.edu>
+Date:   Tue Sep 27 13:10:41 2022 -0600
+
+    initial commit
